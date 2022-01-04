@@ -38,6 +38,8 @@
 | Data Binding |                     View에 표시되는 내용과 모델의 데이터를 동기화                      |
 |  ViewModel   |          View와 Model의 중간영역, DOM Listener와 Data Binding을 제공하는 영역          |
 
+<br><br><br>
+
 > 참고 웹문서
 >
 > - [위키피디아 MVVM](https://ko.wikipedia.org/wiki/%EB%AA%A8%EB%8D%B8-%EB%B7%B0-%EB%B7%B0%EB%AA%A8%EB%8D%B8)
