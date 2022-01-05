@@ -4,3 +4,4 @@
 
 > [1. Vue.js란?](https://github.com/chae-lyn/Vue-js/tree/study/1.Vue.js)   
 > [2. Instance, Component, Life Cycle](https://github.com/chae-lyn/Vue-js/tree/study/2.Vue.js)
+> [3. Component 통신](https://github.com/chae-lyn/Vue-js/tree/study/3.Vue.js)
