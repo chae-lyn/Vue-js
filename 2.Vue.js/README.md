@@ -2,7 +2,7 @@
 
 **Vue.js 기본 구조**
 
-```vue
+```javascript
 <template>
   <div></div>
 </template>
@@ -19,7 +19,7 @@ export default {};
 - 뷰로 화면을 개발하기 위해 필수적으로 생성해야 하는 기본 단위, **필수조건**
 - 간단한 템플릿 렌더링부터 데이터 바인딩, 컴포넌트 등 많이 동작이 수행됨
 
-```vue
+```javascript
 new Vue({
   . . .
 })
@@ -60,7 +60,7 @@ new Vue({
 - 캡슐화가 자연스럽게 가능, 재사용 가능
 
 ##### 전역 컴포넌트
-```vue
+```javascript
 Vue.component("componentName", {
   . . .
 })
@@ -69,7 +69,7 @@ Vue.component("componentName", {
 - 모든 인스턴스에 등록하려면 Vue 생성자에서 .component()를 호출하여 수행
 
 ##### 지역 컴포넌트
-```vue
+```javascript
 new Vue({
   . . .
   components: {
